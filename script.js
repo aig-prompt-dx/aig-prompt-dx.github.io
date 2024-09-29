@@ -118,21 +118,21 @@ const slides = [
                     <div class="flex items-stretch">
                         <div class="bg-blue-600 text-white rounded-full w-10 h-10 flex items-center justify-center font-bold mr-4 flex-shrink-0 self-start text-xl" style="font-size: 1.5rem; width: 3rem; height: 3rem;">1</div>
                         <div class="flex-grow">
-                            <p class="mb-2 text-lg" style="font-size: 1.25rem;">첨부한 파일은 '포스코그룹의 지속 가능 보고서'입니다.<br>
-                            나는 [기업명]에서 [역할]을 하는 [직책명]를 맡고 있습니다.<br>
+                            <p class="mb-2 text-lg" style="font-size: 1.25rem;">첨부한 파일은 '포스코DX의 지속 가능 보고서'입니다.<br>
+                            나는 포스코DX에서 [역할]을 하는 [직책명]를 맡고 있습니다.<br>
                             나와 관련된 내용에 포커스를 맞춰서 핵심내용을 한글로 요약하세요.<br>
                             리스트 형식으로 쓰세요</p>
                             <div class="bg-gray-100 p-4 rounded-lg mt-2">
                                 <p class="font-bold" style="font-size: 1.25rem;">예시)</p>
-                                <p style="font-size: 1.25rem;">첨부한 파일은 포스코의 지속 가능 보고서입니다.<br>
-                                나는 [포스코 인터내셔널]에서 [해외 사업 개발]을 하는 [사업개발본부장]을 맡고 있습니다.<br>
+                                <p style="font-size: 1.25rem;">첨부한 파일은 포스코DX의 지속 가능 보고서입니다.<br>
+                                나는 [포스코DX]에서 [해외 사업 개발]을 하는 [사업개발본부장]을 맡고 있습니다.<br>
                                 나와 관련된 내용에 포커스를 맞춰서 핵심내용을 한글로 요약하세요. 리스트 형식으로 쓰세요</p>
                             </div>
                         </div>
                         <div class="flex-shrink-0 ml-4 h-full">
                             <button class="copy-button px-6 py-4 rounded bg-blue-600 text-white hover:bg-blue-700 focus:ring-2 focus:ring-blue-300 focus:outline-none transition-colors duration-200 ease-in-out flex flex-col items-center justify-center h-full text-xl" style="font-size: 1.5rem; padding: 1rem 1.5rem;"
-                                    data-copy-text="첨부한 파일은 '포스코그룹의 지속 가능 보고서'입니다.
-나는 [기업명]에서 [역할]을 하는 [직책명]를 맡고 있습니다.
+                                    data-copy-text="첨부한 파일은 '포스코DX의 지속 가능 보고서'입니다.
+나는 포스코DX에서 [역할]을 하는 [직책명]를 맡고 있습니다.
 나와 관련된 내용에 포커스를 맞춰서 핵심내용을 한글로 요약하세요.
 리스트 형식으로 쓰세요">
                                 <svg class="h-10 w-10 mb-2" style="width: 3rem; height: 3rem;" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3"></path></svg>
@@ -174,7 +174,7 @@ const slides = [
 
                 <div class="mt-6 text-base flex items-center bg-yellow-100 p-3 rounded-lg">
                     <svg class="h-6 w-6 mr-2 text-yellow-600" style="width: 3rem; height: 3rem;" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"></path></svg>
-                    <p class="text-black" style="font-size: 1.25rem;">지속가능보고서 파일은 <span class="font-bold">&lt;세션2&gt;</span> 폴더내의 포스코 홀딩스 ESG 리포트를 이용하세요</p>
+                    <p class="text-black" style="font-size: 1.25rem;">지속가능보고서 파일은 <span class="font-bold">&lt;세션2&gt;</span> 폴더내의 2023_POSCO_DX_Sustainability_Report (1).pdf 파일을 이용하세요</p>
                 </div>
             </div>
         </div>
@@ -191,8 +191,8 @@ const slides = [
                         <div class="flex items-stretch">
                             <div class="bg-blue-600 text-white rounded-full w-10 h-10 flex items-center justify-center font-bold mr-4 flex-shrink-0 self-start text-xl" style="font-size: 1.5rem; width: 3rem; height: 3rem;">1</div>
                             <div class="flex-grow">
-                                <p class="mb-2 text-lg" style="font-size: 1.25rem;">첨부한 파일은 XXX 회사의 '분기 보고서'입니다.<br>
-    나는 [기업명]에서 [역할]을 하는 [직책]을 맡고 있습니다.<br>
+                                <p class="mb-2 text-lg" style="font-size: 1.25rem;">첨부한 파일은 '포스코DX의 분기 보고서'입니다.<br>
+    나는 포스코DX에서 [역할]을 하는 [직책]을 맡고 있습니다.<br>
     분기 보고서를 읽고 우리 부서 관련 핵심 경영개선 이슈를 찾아 요약하세요.<br>
     아래의 표형식으로 쓰세요.</p>
                                 <div class="bg-blue-100 p-3 rounded mb-2">
@@ -206,8 +206,8 @@ const slides = [
     
                             <div class="flex-shrink-0 ml-4 h-full">
                                 <button class="copy-button px-6 py-4 rounded bg-blue-600 text-white hover:bg-blue-700 focus:ring-2 focus:ring-blue-300 focus:outline-none transition-colors duration-200 ease-in-out flex flex-col items-center justify-center h-full text-xl" style="font-size: 1.5rem; padding: 1rem 1.5rem;"
-                                        data-copy-text="첨부한 파일은 XXX 회사의 '분기 보고서'입니다.
-    나는 [기업명]에서 [역할]을 하는 [직책]을 맡고 있습니다.
+                                        data-copy-text="첨부한 파일은 '포스코DX의 분기 보고서'입니다.
+    나는 포스코DX에서 [역할]을 하는 [직책]을 맡고 있습니다.
     분기 보고서를 읽고 우리 부서 관련 핵심 경영개선 이슈를 찾아 요약하세요.
     아래의 표형식으로 쓰세요.
     
@@ -239,13 +239,9 @@ const slides = [
                     </div>
     
                     <div class="mt-6 text-base">
-                        <div class="flex items-center bg-yellow-100 p-3 rounded-lg">
-                            <svg class="w-6 h-6 mr-2 text-yellow-600" style="width: 3rem; height: 3rem;" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
-                            <p class="text-black" style="font-size: 1.25rem;">분기 보고서 파일은 자사 회사 홈페이지나 공시자료를 다운로드 받아서 사용해 주세요</p>
-                        </div>
                         <div class="flex items-center bg-yellow-100 p-3 rounded-lg mt-2">
                             <svg class="w-6 h-6 mr-2 text-yellow-600" style="width: 3rem; height: 3rem;" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-                            <p class="text-black" style="font-size: 1.25rem;">여의치 않은 경우 <span class="font-bold">&lt;세션2&gt;</span> 폴더내의 포스코 인터내셔널 자료를 이용하셔도 좋습니다</p>
+                            <p class="text-black" style="font-size: 1.25rem;">분기 보고서 파일은 <span class="font-bold">&lt;세션2&gt;</span> 폴더내의 240910_포스코DX_Corp_Day_발표자료 (1).pdf 파일을 사용해주세요.</p>
                         </div>
                     </div>
                 </div>
@@ -382,11 +378,11 @@ const slides = [
                     <div class="flex items-stretch">
                         <div class="bg-blue-600 text-white rounded-full w-10 h-10 flex items-center justify-center font-bold mr-4 flex-shrink-0 self-start text-xl" style="font-size: 1.5rem; width: 3rem; height: 3rem;">6</div>
                         <div class="flex-grow">
-                            <p class="mb-2 text-lg" style="font-size: 1.25rem;">포스코그룹이 탄소배출량을 줄이기 위해서는 어떤 노력을 하는 게 좋을지 이 데이터에서 인사이트를 찾아 5가지로 제안해줘</p>
+                            <p class="mb-2 text-lg" style="font-size: 1.25rem;">포스코DX가 탄소배출량을 줄이기 위해서는 어떤 노력을 하는 게 좋을지 이 데이터에서 인사이트를 찾아 5가지로 제안해줘</p>
                         </div>
                         <div class="flex-shrink-0 ml-4">
                             <button class="copy-button px-6 py-4 rounded bg-blue-600 text-white hover:bg-blue-700 focus:ring-2 focus:ring-blue-300 focus:outline-none transition-colors duration-200 ease-in-out flex flex-col items-center justify-center h-full text-xl" style="font-size: 1.5rem; padding: 1rem 1.5rem;"
-                                    data-copy-text="포스코그룹이 탄소배출량을 줄이기 위해서는 어떤 노력을 하는 게 좋을지 이 데이터에서 인사이트를 찾아 5가지로 제안해줘">
+                                    data-copy-text="포스코DX가 탄소배출량을 줄이기 위해서는 어떤 노력을 하는 게 좋을지 이 데이터에서 인사이트를 찾아 5가지로 제안해줘">
                                 <svg class="h-10 w-10 mb-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" style="width: 3rem; height: 3rem;"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3"></path></svg>
                                 복사하기
                             </button>
@@ -396,7 +392,7 @@ const slides = [
 
         <div class="mt-6 text-base flex items-center bg-yellow-100 p-3 rounded-lg">
             <svg class="h-6 w-6 mr-2 text-yellow-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" style="width: 3rem; height: 3rem;"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"></path></svg>
-            <p class="text-black" style="font-size: 1.25rem;"><span class="font-bold" style="font-size: 1.5rem;">&lt;세션3&gt;</span> '탄소 배출' 파일을 첨부하세요</p>
+            <p class="text-black" style="font-size: 1.25rem;"><span class="font-bold" style="font-size: 1.5rem;">&lt;세션3&gt;</span> 폴더의 '1_탄소 배출.csv' 파일을 첨부하세요</p>
         </div>
     </div>
 </div>    `,
@@ -409,19 +405,19 @@ const slides = [
                         <div class="space-y-6">
                             <div class="flex items-stretch">
                                 <div class="flex-grow">
-                                    <p class="mb-4 text-lg" style="font-size: 1.25rem;">글로벌 ESG 도전과제를 담은 차트 이미지와 포스코그룹의 ESG 리포트를 읽고 포스코 그룹에서 ESG 프로젝트를 진행할 때 필요한 인사이트를 추출해. 아래의 순서대로 진행해</p>
+                                    <p class="mb-4 text-lg" style="font-size: 1.25rem;">글로벌 ESG 도전과제를 담은 차트 이미지와 포스코DX의 ESG 리포트를 읽고 포스코DX에서 ESG 프로젝트를 진행할 때 필요한 인사이트를 추출해. 아래의 순서대로 진행해</p>
                                     <p class="mb-2 text-lg" style="font-size: 1.25rem;">1. Image의 내용과 수치를 텍스트로 정리한다</p>
-                                    <p class="mb-2 text-lg" style="font-size: 1.25rem;">2. 첨부한 포스코 그룹의 문서내의 ESG 과제 내용과 매핑한다</p>
-                                    <p class="mb-2 text-lg" style="font-size: 1.25rem;">3. 매핑된 과제에 대한 점수를 참고해서 포스코에서 우선적으로 고려해야할 과제 리스트를 추출한다.</p>
+                                    <p class="mb-2 text-lg" style="font-size: 1.25rem;">2. 첨부한 포스코DX ESG 보고서의 ESG 과제 내용과 매핑한다</p>
+                                    <p class="mb-2 text-lg" style="font-size: 1.25rem;">3. 매핑된 과제에 대한 점수를 참고해서 포스코DX에서 우선적으로 고려해야할 과제 리스트를 추출한다.</p>
                                     <p class="mb-2 text-lg" style="font-size: 1.25rem;">4. 정리된 과제 리스트별로 액션플랜을 수립한다.</p>
                                 </div>
                                 <div class="flex-shrink-0 ml-4 h-full">
                                     <button class="copy-button px-6 py-4 rounded bg-blue-600 text-white hover:bg-blue-700 focus:ring-2 focus:ring-blue-300 focus:outline-none transition-colors duration-200 ease-in-out flex flex-col items-center justify-center h-full text-xl" style="font-size: 1.5rem; padding: 1rem 1.5rem;"
-                                            data-copy-text="글로벌 ESG 도전과제를 담은 차트 이미지와 포스코그룹의 ESG 리포트를 읽고 포스코 그룹에서 ESG 프로젝트를 진행할 때 필요한 인사이트를 추출해. 아래의 순서대로 진행해
+                                            data-copy-text="글로벌 ESG 도전과제를 담은 차트 이미지와 포스코DX의 ESG 리포트를 읽고 포스코DX에서 ESG 프로젝트를 진행할 때 필요한 인사이트를 추출해. 아래의 순서대로 진행해
 
 1. Image의 내용과 수치를 텍스트로 정리한다
-2. 첨부한 포스코 그룹의 문서내의 ESG 과제 내용과 매핑한다
-3. 매핑된 과제에 대한 점수를 참고해서 포스코에서 우선적으로 고려해야할 과제 리스트를 추출한다.
+2. 첨부한 포스코DX ESG 보고서의 ESG 과제 내용과 매핑한다
+3. 매핑된 과제에 대한 점수를 참고해서 포스코DX에서 우선적으로 고려해야할 과제 리스트를 추출한다.
 4. 정리된 과제 리스트별로 액션플랜을 수립한다.">
                                         <svg class="h-10 w-10 mb-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" style="width: 3rem; height: 3rem;"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3"></path></svg>
                                         복사하기
@@ -432,7 +428,7 @@ const slides = [
         
                         <div class="mt-6 text-base flex items-center bg-yellow-100 p-3 rounded-lg">
                             <svg class="h-6 w-6 mr-2 text-yellow-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" style="width: 3rem; height: 3rem;"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"></path></svg>
-                            <p class="text-black" style="font-size: 1.25rem;"><span class="font-bold" style="font-size: 1.5rem;">&lt;세션3&gt;</span> 총 2개의 파일 : 'KPMG 차트'이미지와 포스코홀딩스 ESG 리포트를 첨부하세요</p>
+                            <p class="text-black" style="font-size: 1.25rem;"><span class="font-bold" style="font-size: 1.5rem;">&lt;세션3&gt;</span> 총 2개의 파일 : 2.KPMG 차트.png와 2023_POSCO_DX_Sustainability_Report (1).pdf 파일을 첨부하세요</p>
                         </div>
                     </div>
                 </div>
@@ -449,11 +445,11 @@ const slides = [
                 <div class="space-y-6">
                     <div class="flex items-stretch">
                         <div class="flex-grow">
-                            <p class="mb-2 text-lg" style="font-size: 1.25rem;">• 2030년 포스코 그룹 시총이 애플을 넘어서 전세계 시총 1위가 되었다. 이 순간을 위해 포스코는 2025년 부터...</p>
+                            <p class="mb-2 text-lg" style="font-size: 1.25rem;">• 2030년 포스코DX 시총이 애플을 넘어서 전세계 시총 1위가 되었다. 이 순간을 위해 포스코DX는 2025년 부터...</p>
                         </div>
                         <div class="flex-shrink-0 ml-4 h-full">
                             <button class="copy-button px-6 py-4 rounded bg-blue-600 text-white hover:bg-blue-700 focus:ring-2 focus:ring-blue-300 focus:outline-none transition-colors duration-200 ease-in-out flex flex-col items-center justify-center h-full text-xl" style="font-size: 1.5rem; padding: 1rem 1.5rem;"
-                                    data-copy-text="2030년 포스코 그룹 시총이 애플을 넘어서 전세계 시총 1위가 되었다. 이 순간을 위해 포스코는 2025년 부터...">
+                                    data-copy-text="2030년 포스코DX 시총이 애플을 넘어서 전세계 시총 1위가 되었다. 이 순간을 위해 포스코DX는 2025년 부터...">
                                 <svg class="h-10 w-10 mb-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" style="width: 3rem; height: 3rem;"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3"></path></svg>
                                 복사하기
                             </button>
@@ -473,11 +469,11 @@ const slides = [
                     </div>
                     <div class="flex items-stretch">
                         <div class="flex-grow">
-                            <p class="mb-2 text-lg" style="font-size: 1.25rem;">• 포스코가 넷플릭스와 함께 영화를 제작해 세상을 놀라게 했다. 그 주제는 바로...</p>
+                            <p class="mb-2 text-lg" style="font-size: 1.25rem;">• 포스코DX가 넷플릭스와 함께 영화를 제작해 세상을 놀라게 했다. 그 주제는 바로...</p>
                         </div>
                         <div class="flex-shrink-0 ml-4 h-full">
                             <button class="copy-button px-6 py-4 rounded bg-blue-600 text-white hover:bg-blue-700 focus:ring-2 focus:ring-blue-300 focus:outline-none transition-colors duration-200 ease-in-out flex flex-col items-center justify-center h-full text-xl" style="font-size: 1.5rem; padding: 1rem 1.5rem;"
-                                    data-copy-text="포스코가 넷플릭스와 함께 영화를 제작해 세상을 놀라게 했다. 그 주제는 바로...">
+                                    data-copy-text="포스코DX가 넷플릭스와 함께 영화를 제작해 세상을 놀라게 했다. 그 주제는 바로...">
                                 <svg class="h-10 w-10 mb-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" style="width: 3rem; height: 3rem;"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3"></path></svg>
                                 복사하기
                             </button>
