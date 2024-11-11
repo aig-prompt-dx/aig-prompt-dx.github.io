@@ -5,10 +5,10 @@ const slides = [
     `
 <div class="bg-blue-600 flex flex-col h-screen">
     <div class="flex-grow flex flex-col items-center justify-center px-8">
-        <h2 class="text-4xl font-bold text-white mb-16 text-center" style="font-size: 2.5rem;">포스코DX 그룹장 WX 워크숍</h2>
+        <h2 class="text-4xl font-bold text-white mb-16 text-center" style="font-size: 2.5rem;">포스코DX 워크숍</h2>
         <div class="text-center mb-16">
             <h1 class="text-6xl font-bold text-white mb-8" style="font-size: 3rem;">실습 프롬프트</h1>
-            <p class="text-2xl text-white" style="font-size: 1.5rem;">포스코DX 그룹장 WX 워크숍을 위한 실습 프롬프트입니다.</p>
+            <p class="text-2xl text-white" style="font-size: 1.5rem;">포스코DX 워크숍을 위한 실습 프롬프트입니다.</p>
         </div>
     </div>
 </div>
@@ -174,7 +174,7 @@ const slides = [
 
                 <div class="mt-6 text-base flex items-center bg-yellow-100 p-3 rounded-lg">
                     <svg class="h-6 w-6 mr-2 text-yellow-600" style="width: 3rem; height: 3rem;" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"></path></svg>
-                    <p class="text-black" style="font-size: 1.25rem;">지속가능보고서 파일은 <span class="font-bold">&lt;세션2&gt;</span> 폴더내의 2023_POSCO_DX_Sustainability_Report (1).pdf 파일을 이용하세요</p>
+                    <p class="text-black" style="font-size: 1.25rem;">지속가능보고서 파일은 <span class="font-bold">&lt;세션2&gt;</span> 폴더내의 2023_POSCO DX 지속가능경영보고서.pdf 파일을 이용하세요</p>
                 </div>
             </div>
         </div>
@@ -241,7 +241,7 @@ const slides = [
                     <div class="mt-6 text-base">
                         <div class="flex items-center bg-yellow-100 p-3 rounded-lg mt-2">
                             <svg class="w-6 h-6 mr-2 text-yellow-600" style="width: 3rem; height: 3rem;" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-                            <p class="text-black" style="font-size: 1.25rem;">분기 보고서 파일은 <span class="font-bold">&lt;세션2&gt;</span> 폴더내의 240910_포스코DX_Corp_Day_발표자료 (1).pdf 파일을 사용해주세요.</p>
+                            <p class="text-black" style="font-size: 1.25rem;">분기 보고서 파일은 <span class="font-bold">&lt;세션2&gt;</span> 폴더내의 '241030_포스코DX IR자료 24년 3Q.pdf' 파일을 사용해주세요.</p>
                         </div>
                     </div>
                 </div>
@@ -428,7 +428,7 @@ const slides = [
         
                         <div class="mt-6 text-base flex items-center bg-yellow-100 p-3 rounded-lg">
                             <svg class="h-6 w-6 mr-2 text-yellow-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" style="width: 3rem; height: 3rem;"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"></path></svg>
-                            <p class="text-black" style="font-size: 1.25rem;"><span class="font-bold" style="font-size: 1.5rem;">&lt;세션3&gt;</span> 총 2개의 파일 : 2.KPMG 차트.png와 2023_POSCO_DX_Sustainability_Report (1).pdf 파일을 첨부하세요</p>
+                            <p class="text-black" style="font-size: 1.25rem;"><span class="font-bold" style="font-size: 1.5rem;">&lt;세션3&gt;</span> 총 2개의 파일 : 2.KPMG 차트.png와 2023_POSCO DX 지속가능경영보고서.pdf 파일을 첨부하세요</p>
                         </div>
                     </div>
                 </div>
